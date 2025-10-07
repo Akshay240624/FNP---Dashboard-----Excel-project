@@ -39,6 +39,8 @@ Techniques Used: Data cleaning, VLOOKUP/INDEX-MATCH for data merging, Pivot Tabl
 ## Getting Started
 To view the data and replicate the analysis:
 
+Dataset Access : (https://github.com/Akshay240624/FNP---Dashboard-----Excel-project/blob/main/FNP%20----%20Excel%20project.xlsx)
+
 ## Clone the repository:
 
 Bash
