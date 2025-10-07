@@ -38,7 +38,7 @@ Techniques Used: Data cleaning, VLOOKUP/INDEX-MATCH for data merging, Pivot Tabl
 
 ## Dashboard :
 
-![Fnp ---- Dashboard  (4)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6VQ9hscpNCM0LiqDbAUNzo79HJ41Ne3wIw&s)
+![Fnp ---- Dashboard  (4)](https://github.com/Akshay240624/FNP---Dashboard-----Excel-project/blob/main/Fnp%20----%20Dashboard%20Output.png)
 
 
 ## Clone the repository:
