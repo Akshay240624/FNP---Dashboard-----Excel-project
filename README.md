@@ -36,16 +36,16 @@ Techniques Used: Data cleaning, VLOOKUP/INDEX-MATCH for data merging, Pivot Tabl
  ├── FNP ---- Excel project.xlsx - Sheet2.csv (Analysis Summary)
  └── README.md (This file)
 
-## Getting Started
-To view the data and replicate the analysis:
+## Dashboard :
 
-Dataset Access : (https://github.com/Akshay240624/FNP---Dashboard-----Excel-project/blob/main/FNP%20----%20Excel%20project.xlsx)
+![Fnp ---- Dashboard  (4)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6VQ9hscpNCM0LiqDbAUNzo79HJ41Ne3wIw&s)
+
 
 ## Clone the repository:
 
 Bash
 
-git clone [Your Repository URL]
+git clone [https://github.com/Akshay240624/FNP---Dashboard-----Excel-project/blob/main/FNP%20----%20Excel%20project.xlsx]
 Open the files: All data files are in CSV format and can be opened directly using Microsoft Excel, Google Sheets, or any data analysis software (like Python/Pandas or R) for further exploration.
 
 Review the Analysis: The file FNP ---- Excel project.xlsx - Sheet2.csv contains the foundational pivot tables that drove the key insights for the project.
