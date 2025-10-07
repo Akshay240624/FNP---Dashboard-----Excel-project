@@ -29,8 +29,10 @@ Techniques Used: Data cleaning, VLOOKUP/INDEX-MATCH for data merging, Pivot Tabl
 .
 ├── FNP ---- Excel project.xlsx - Customers.csv
 ├── FNP ---- Excel project.xlsx - fnp dataset.csv
+
 ├── FNP ---- Excel project.xlsx - Orders.csv
 ├── FNP ---- Excel project.xlsx - Products.csv
+
 ├── FNP ---- Excel project.xlsx - Sheet2.csv (Analysis Summary)
 └── README.md (This file)
 
