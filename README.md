@@ -1,5 +1,7 @@
 ## FNP Sales Data Analysis: E-commerce Performance Review 📊
 
+![Fnp    (4)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6VQ9hscpNCM0LiqDbAUNzo79HJ41Ne3wIw&s)
+
 ## Project Overview
 This project presents a comprehensive data analysis of an e-commerce platform's sales and customer data (referred to as FNP data). The goal was to transform raw transactional data, customer information, and product details into actionable insights using advanced Excel features like Pivot Tables, formulas, and data manipulation. The analysis focuses on understanding revenue drivers, product performance, customer behavior, and operational efficiency (delivery time) across various months and sales occasions.
 
