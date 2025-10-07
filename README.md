@@ -1,8 +1,9 @@
-FNP Sales Data Analysis: E-commerce Performance Review 📊
-Project Overview
+## FNP Sales Data Analysis: E-commerce Performance Review 📊
+
+## Project Overview
 This project presents a comprehensive data analysis of an e-commerce platform's sales and customer data (referred to as FNP data). The goal was to transform raw transactional data, customer information, and product details into actionable insights using advanced Excel features like Pivot Tables, formulas, and data manipulation. The analysis focuses on understanding revenue drivers, product performance, customer behavior, and operational efficiency (delivery time) across various months and sales occasions.
 
-Key Metrics & Analysis
+## Key Metrics & Analysis
 The analysis derived insights across several dimensions of the business:
 
 Overall Performance: Calculated total revenue, total number of orders (1000 orders), and average customer spending (3520.984).
@@ -17,12 +18,12 @@ Operational Efficiency: Calculated the Average Delivery Time (≈5.53 days) to g
 
 Customer Segmentation: Used customer and order data to explore purchasing patterns based on location and gender.
 
-Tools & Technologies
+## Tools & Technologies
 Primary Tool: Microsoft Excel (or Google Sheets)
 
 Techniques Used: Data cleaning, VLOOKUP/INDEX-MATCH for data merging, Pivot Tables for aggregation, Calculated Fields, and Data Visualization (Charts/Graphs, which would be in the original Excel file).
 
-Repository Structure
+## Repository Structure
 .
 ├── FNP ---- Excel project.xlsx - Customers.csv
 ├── FNP ---- Excel project.xlsx - fnp dataset.csv
