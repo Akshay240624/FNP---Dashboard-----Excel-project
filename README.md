@@ -31,10 +31,11 @@ Techniques Used: Data cleaning, VLOOKUP/INDEX-MATCH for data merging, Pivot Tabl
 ├── FNP ---- Excel project.xlsx - Products.csv
 ├── FNP ---- Excel project.xlsx - Sheet2.csv (Analysis Summary)
 └── README.md (This file)
-Getting Started
+
+## Getting Started
 To view the data and replicate the analysis:
 
-Clone the repository:
+## Clone the repository:
 
 Bash
 
